@@ -2,15 +2,7 @@ import * as firebase from 'firebase';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-const firebaseConfig = {
-	apiKey: 'AIzaSyBLoMqRYCs4u4_OCq-kLJ_HjS_lC58he6s',
-	authDomain: 'circle-7d444.firebaseapp.com',
-	projectId: 'circle-7d444',
-	storageBucket: 'circle-7d444.appspot.com',
-	messagingSenderId: '569460265424',
-	appId: '1:569460265424:web:0cb9f167cae38132e1e9d5',
-	measurementId: 'G-E82M3N5FCV',
-};
+const firebaseConfig = your_config;
 
 let app;
 
