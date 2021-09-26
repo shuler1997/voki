@@ -1,6 +1,6 @@
 # voki - audio messaging reimagined
 
-<img src="/home/teemps/FILES/OTHERS/CODING/hackzurich2021/doc_media/logo_text.png" alt="voki logo" style="zoom: 25%;" />
+<img src="./doc_media/logo_text.png" alt="voki logo" style="zoom: 25%;" />
 
 voki is an audio messaging app that leverages the power of AI to put your communication bandwidth on steroids. Beautiful visualisation of messages based on sentiment, automatically generated transcript and tags.
 
