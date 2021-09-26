@@ -1,11 +1,15 @@
 # voki - audio messaging reimagined
 
-<img src="./doc_media/logo_text.png" alt="voki logo" style="zoom: 25%;" />
-
+<p align="center">
+<img src="./doc_media/logo_text.png" alt="voki logo" width="300" />
+</p>
+	
 voki is an audio messaging app that leverages the power of AI to put your communication bandwidth on steroids. Beautiful visualisation of messages based on sentiment, automatically generated transcript and tags.
 
-<img src="./doc_media/login_screen.gif" alt="login_screen" style="zoom:33%;" /> <img src="./doc_media/record_msg.gif" alt="record_msg" style="zoom:33%;" /> <img src="./doc_media/summary.gif" alt="summary" style="zoom:33%;" />    
 
+<p align="center">
+<img src="./doc_media/login_screen.gif" alt="login_screen" width="275" /> | <img src="./doc_media/record_msg.gif" alt="record_msg" width="275" /> | <img src="./doc_media/summary.gif" alt="summary" width="275" />    
+</p>
 
 ## Building the app 
 
