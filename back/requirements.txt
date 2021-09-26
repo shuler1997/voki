@@ -1,0 +1,6 @@
+pyngrok
+azure-cognitiveservices-speech
+flask
+flask_cors
+transformers
+torch
